@@ -1,2 +1,3 @@
 Yesterday was Monday
 Today is Tuesday
+Tomorrow is Wednesday
